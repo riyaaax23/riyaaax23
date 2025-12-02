@@ -1,5 +1,5 @@
 # Hi there, I'm Riya 👋  
-### 💻 Software Engineering Student | Aspiring Full Stack Developer  
+### 💻 Software Engineering Student | Aspiring Full Stack Developer 
 
 🎓 I'm a 3rd-year Software Engineering student passionate about building meaningful, efficient software.  
 🚀 Currently exploring **Java**, **Web Development**.  
