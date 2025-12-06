@@ -26,6 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/riya-singh-63a8a6291/)
 [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:riyasingh23090906@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://riyaaax23.github.io/portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/RiyaSingh2309/)
 
 
 ---
