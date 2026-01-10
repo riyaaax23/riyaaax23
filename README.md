@@ -7,7 +7,7 @@
 
 ---
 
-### 🎯 2025 Goals  
+### 🎯 2026 Goals  
 - Contribute to **Open Source Projects**  
 - Build a **personal project** using Spring Boot + React  
 - Strengthen **DSA & System Design** skills  
