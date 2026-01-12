@@ -1,6 +1,10 @@
 # Hi there, I'm Riya 👋  
 ### 💻 Software Engineering Student | Aspiring Full Stack Developer 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 🎓 I'm a 3rd-year Software Engineering student passionate about building meaningful, efficient software.  
 🚀 Currently exploring **Java**, **Web Development**.  
 🌱 Learning something new every day, one commit at a time.
